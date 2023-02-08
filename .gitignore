@@ -1,0 +1,5 @@
+# Ignore Juypter lab metadata
+.ipynb_checkpoints/
+
+# Ignore datasets
+data/
